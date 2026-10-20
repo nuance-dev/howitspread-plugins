@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "howitspread": { "type": "http", "url": "https://howitspread.com/api/mcp" }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "howitspread",
+  "version": "1.2.0",
+  "description": "Viral precedents with sourced, dated spread timelines and a Spread Score. Each answer cites a case.",
+  "mcpServers": {
+    "howitspread": { "httpUrl": "https://howitspread.com/api/mcp" }
+  },
+  "contextFileName": "GEMINI.md"
+}

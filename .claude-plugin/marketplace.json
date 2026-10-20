@@ -1,0 +1,14 @@
+{
+  "name": "howitspread",
+  "owner": { "name": "How It Spread", "email": "hello@howitspread.com" },
+  "metadata": { "description": "How It Spread for Claude: viral precedents, cited and dated." },
+  "plugins": [
+    {
+      "name": "howitspread",
+      "source": "./",
+      "description": "Viral precedents, cited and dated, from How It Spread.",
+      "category": "research",
+      "homepage": "https://howitspread.com/mcp"
+    }
+  ]
+}

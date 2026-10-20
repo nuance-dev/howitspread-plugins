@@ -1,0 +1,10 @@
+{
+  "name": "howitspread",
+  "description": "Viral precedents for briefs and decks: search sourced, dated spread timelines and cite each case.",
+  "version": "1.2.0",
+  "author": { "name": "How It Spread", "email": "hello@howitspread.com", "url": "https://howitspread.com" },
+  "homepage": "https://howitspread.com/mcp",
+  "repository": "https://howitspread.com/plugin.git",
+  "license": "MIT",
+  "keywords": ["marketing", "viral", "case studies", "research", "mcp"]
+}
