@@ -1,10 +1,26 @@
 {
   "name": "howitspread",
-  "description": "Viral precedents for briefs and decks: search sourced, dated spread timelines and cite each case.",
-  "version": "1.2.0",
-  "author": { "name": "How It Spread", "email": "hello@howitspread.com", "url": "https://howitspread.com" },
+  "description": "Viral precedents, cited and dated: search real viral cases with a Spread Score and a sourced, dated timeline.",
+  "version": "1.2.1",
+  "author": {
+    "name": "How It Spread",
+    "email": "hello@howitspread.com",
+    "url": "https://howitspread.com"
+  },
   "homepage": "https://howitspread.com/mcp",
-  "repository": "https://howitspread.com/plugin.git",
+  "repository": "https://github.com/nuance-dev/howitspread-plugins",
   "license": "MIT",
-  "keywords": ["marketing", "viral", "case studies", "research", "mcp"]
+  "keywords": [
+    "marketing",
+    "viral",
+    "case studies",
+    "research",
+    "mcp"
+  ],
+  "displayName": "How It Spread",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://howitspread.com/privacy",
+  "supportUrl": "https://howitspread.com/mcp",
+  "documentationUrl": "https://howitspread.com/mcp",
+  "termsOfServiceUrl": "https://howitspread.com/terms"
 }
